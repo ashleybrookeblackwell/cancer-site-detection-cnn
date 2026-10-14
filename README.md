@@ -83,4 +83,4 @@ Python · TensorFlow / Keras · EfficientNetB0 (transfer learning) · AutoKeras 
 ---
 
 **Ashley Blackwell** — Applied Data Scientist
-[LinkedIn](https://linkedin.com/in/ablackwellb) · [Hugging Face](https://huggingface.co/ablackwellb) · [Tableau Public](https://public.tableau.com/app/profile/ablackwellb)
+[LinkedIn](https://linkedin.com/in/[[ablackwellb](https://github.com/ashleybrookeblackwell/cancer-site-detection-cnn)](https://github.com/ashleybrookeblackwell/cancer-site-detection-cnn)) · [Hugging Face](https://huggingface.co/ablackwellb) · [Tableau Public](https://public.tableau.com/app/profile/ablackwellb)

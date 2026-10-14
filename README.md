@@ -83,4 +83,4 @@ Python · TensorFlow / Keras · EfficientNetB0 (transfer learning) · AutoKeras 
 ---
 
 **Ashley Blackwell** — Applied Data Scientist
-[LinkedIn](https://linkedin.com/in/ashleybrookeblackwell] · [Hugging Face](https://huggingface.co/ablackwellb) · [Tableau Public](https://public.tableau.com/app/profile/ablackwellb)
+[LinkedIn](https://linkedin.com/in/ashleybrookeblackwell) · [Hugging Face](https://huggingface.co/ablackwellb) · [Tableau Public](https://public.tableau.com/app/profile/ablackwellb)
